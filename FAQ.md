@@ -13,14 +13,12 @@ A legal hackathon is an event that brings together teams of lawyers, policymaker
 Generally a theme is announced and in past legal hackathons that has focused on access to justice. Ours will be geared toward developing a tool, a widget, an app that helps lawyers, our general target audience.
 Take a look at this “Multiple Bill Calculator” built by Loyola Law students and professor:
 
-======
-
-
-About Multiple Bill Calculator
+** About Multiple Bill Calculator **
 
 Louisiana's Habitual Offender Law provides for enhanced sentences for offenders with previous felony convictions. Properly computing the correct sentences, however, requires the one skill that most lawyers are not particularly good at - math.
 This is where Multiple Bill Calculator steps in. It uses javascript to quickly calculate the minimum and maximum sentencing ranges for multiple offenders. The calculator works on any device with a browser - phones, tablets, and desktop computers - and even works when you have no internet connection. The calculator is open source and is offered free of charge by the Loyola Litigation and Technology Clinic under the MIT license. The source code is available on Github.
--------
+
+
 
 During the hackathon, lawyers, law students, developers and graphic designers work in “teams”. Each team will work to develop a web application or mobile app over the course of the hackathon. At the end of the hackathon, a panel of judges will rate each of the teams' work, and a winning app will be chosen.
 We would solicit ideas for problems that the teams can work to resolve ahead of the kickoff through LTRC. 
