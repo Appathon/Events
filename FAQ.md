@@ -14,6 +14,8 @@ Generally a theme is announced and in past legal hackathons that has focused on 
 Take a look at this “Multiple Bill Calculator” built by Loyola Law students and professor:
 
 ======
+
+
 About Multiple Bill Calculator
 
 Louisiana's Habitual Offender Law provides for enhanced sentences for offenders with previous felony convictions. Properly computing the correct sentences, however, requires the one skill that most lawyers are not particularly good at - math.
