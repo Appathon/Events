@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>15</string>
+	<string>64</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-14T23:26:13Z</date>
+	<date>2015-04-14T23:29:50Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -1666,7 +1666,7 @@
 			<string>C4B8ED20-8604-4BDA-9C0F-79876D55EEAA-484-0000069C107CB161</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>21</string>
+				<string>40</string>
 			</array>
 			<key>symbol</key>
 			<dict>
