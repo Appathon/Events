@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>232</string>
+	<string>64</string>
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2015-04-15T13:54:30Z</date>
+	<date>2015-04-15T14:59:47Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -39,7 +39,7 @@
 			<key>frame</key>
 			<string>{{0, 0}, {1353, 665}}</string>
 			<key>identifier</key>
-			<string>container 475</string>
+			<string>container 189</string>
 			<key>isCustomizableViewContainer</key>
 			<true/>
 			<key>isCustomizableViewWrapper</key>
@@ -50,13 +50,13 @@
 			<array>
 				<dict>
 					<key>frame</key>
-					<string>{{0, 0}, {1082, 665}}</string>
+					<string>{{0, 0}, {270, 665}}</string>
 					<key>identifier</key>
-					<string>container 189</string>
+					<string>container 184</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
-					<false/>
+					<true/>
 					<key>isVertical</key>
 					<true/>
 					<key>subviews</key>
@@ -65,7 +65,30 @@
 							<key>frame</key>
 							<string>{{0, 0}, {270, 665}}</string>
 							<key>identifier</key>
-							<string>container 184</string>
+							<string>sceneSelectorCustomizableContainer</string>
+							<key>isCustomizableViewContainer</key>
+							<false/>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>frame</key>
+					<string>{{271, 0}, {1082, 665}}</string>
+					<key>identifier</key>
+					<string>container 187</string>
+					<key>isCustomizableViewContainer</key>
+					<true/>
+					<key>isCustomizableViewWrapper</key>
+					<false/>
+					<key>isVertical</key>
+					<false/>
+					<key>subviews</key>
+					<array>
+						<dict>
+							<key>frame</key>
+							<string>{{271, 0}, {1082, 135}}</string>
+							<key>identifier</key>
+							<string>container 186</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -76,9 +99,9 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{0, 0}, {270, 665}}</string>
+									<string>{{271, 0}, {1082, 135}}</string>
 									<key>identifier</key>
-									<string>sceneSelectorCustomizableContainer</string>
+									<string>timelineCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
 									<false/>
 								</dict>
@@ -86,87 +109,26 @@
 						</dict>
 						<dict>
 							<key>frame</key>
-							<string>{{271, 0}, {811, 665}}</string>
+							<string>{{271, 136}, {1082, 529}}</string>
 							<key>identifier</key>
-							<string>container 187</string>
+							<string>container 185</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
-							<false/>
+							<true/>
 							<key>isVertical</key>
-							<false/>
+							<true/>
 							<key>subviews</key>
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 0}, {811, 135}}</string>
+									<string>{{271, 136}, {1082, 529}}</string>
 									<key>identifier</key>
-									<string>container 186</string>
+									<string>sceneEditorCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
-									<true/>
-									<key>isCustomizableViewWrapper</key>
-									<true/>
-									<key>isVertical</key>
-									<true/>
-									<key>subviews</key>
-									<array>
-										<dict>
-											<key>frame</key>
-											<string>{{271, 0}, {811, 135}}</string>
-											<key>identifier</key>
-											<string>timelineCustomizableContainer</string>
-											<key>isCustomizableViewContainer</key>
-											<false/>
-										</dict>
-									</array>
-								</dict>
-								<dict>
-									<key>frame</key>
-									<string>{{271, 136}, {811, 529}}</string>
-									<key>identifier</key>
-									<string>container 185</string>
-									<key>isCustomizableViewContainer</key>
-									<true/>
-									<key>isCustomizableViewWrapper</key>
-									<true/>
-									<key>isVertical</key>
-									<true/>
-									<key>subviews</key>
-									<array>
-										<dict>
-											<key>frame</key>
-											<string>{{271, 136}, {811, 529}}</string>
-											<key>identifier</key>
-											<string>sceneEditorCustomizableContainer</string>
-											<key>isCustomizableViewContainer</key>
-											<false/>
-										</dict>
-									</array>
+									<false/>
 								</dict>
 							</array>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>frame</key>
-					<string>{{1083, 0}, {270, 665}}</string>
-					<key>identifier</key>
-					<string>container 188</string>
-					<key>isCustomizableViewContainer</key>
-					<true/>
-					<key>isCustomizableViewWrapper</key>
-					<true/>
-					<key>isVertical</key>
-					<true/>
-					<key>subviews</key>
-					<array>
-						<dict>
-							<key>frame</key>
-							<string>{{1083, 0}, {270, 665}}</string>
-							<key>identifier</key>
-							<string>inspectorCustomizableContainer</string>
-							<key>isCustomizableViewContainer</key>
-							<false/>
 						</dict>
 					</array>
 				</dict>
@@ -181,7 +143,7 @@
 		<key>selectedTabIndex</key>
 		<integer>0</integer>
 		<key>showInspectorView</key>
-		<true/>
+		<false/>
 		<key>showResourcesView</key>
 		<false/>
 		<key>showSceneSelectorView</key>
@@ -213,7 +175,7 @@
 	<key>mobileStatusBarStyle</key>
 	<integer>1</integer>
 	<key>oidCounter</key>
-	<integer>406</integer>
+	<integer>413</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -252,18 +214,6 @@
 				<key>resources</key>
 				<array>
 					<string>MIT_ML_Logo_K_RGB.png</string>
-				</array>
-			</dict>
-			<dict>
-				<key>expanded</key>
-				<true/>
-				<key>name</key>
-				<string>Appathon-Graffle</string>
-				<key>oid</key>
-				<string>121</string>
-				<key>resources</key>
-				<array>
-					<string>Appathon-Graffle.jpg</string>
 				</array>
 			</dict>
 			<dict>
@@ -348,6 +298,18 @@
 				<key>resources</key>
 				<array>
 					<string>Screen Shot 2015-04-15 at 8.33.12 AM.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>Vid-Temp</string>
+				<key>oid</key>
+				<string>407</string>
+				<key>resources</key>
+				<array>
+					<string>Vid-Temp.jpg</string>
 				</array>
 			</dict>
 		</array>
@@ -496,60 +458,6 @@
 				AAATIAAAPAIAAAAAAAAgIAAAeAIAAAAAAAAwIAAApAIA
 				AAAAAAABwAAA/AEAAAAAAAARwAAAFAAAAAAAAAASwAAA
 				DAIAAAAAAAAQ0AAArAIAAAAAAAA=
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<false/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<true/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2015-04-15T12:22:50Z</date>
-				<key>fileSize</key>
-				<integer>43524</integer>
-				<key>md5</key>
-				<string>EB169B03C8C51E72E3D1E9173D42094F</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Users/dazza/Dropbox (Personal)/0_2015/2015-GitHubRepoArchive/Events/Media/Appathon-Graffle.jpg</string>
-				<key>resourceName</key>
-				<string>Appathon-Graffle.jpg</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va2ADAAAAAAQQMAAAABIxkf0h2xeKjNsC9ee4liPo
-				1j43CeaznmkRjSD2b5vkaAIAAAUAAAABAQAAVXNlcnMA
-				AAAFAAAAAQEAAGRhenphAAAAEgAAAAEBAABEcm9wYm94
-				IChQZXJzb25hbCkAAAYAAAABAQAAMF8yMDE1AAAWAAAA
-				AQEAADIwMTUtR2l0SHViUmVwb0FyY2hpdmUAAAYAAAAB
-				AQAARXZlbnRzAAAFAAAAAQEAAE1lZGlhAAAAFAAAAAEB
-				AABBcHBhdGhvbi1HcmFmZmxlLmpwZyAAAAABBgAABAAA
-				ABQAAAAkAAAAQAAAAFAAAABwAAAAgAAAAJAAAAAIAAAA
-				BAMAAP6/AAAAAAAACAAAAAQDAABL+QUAAAAAAAgAAAAE
-				AwAA674GAAAAAAAIAAAABAMAAEE2SQIAAAAACAAAAAQD
-				AABNoUsCAAAAAAgAAAAEAwAAUEmIAgAAAAAIAAAABAMA
-				AM3zmwIAAAAACAAAAAQDAABTOpwCAAAAACAAAAABBgAA
-				1AAAAOQAAAD0AAAABAEAABQBAAAkAQAANAEAAEQBAAAI
-				AAAAAAQAAEG63o+aAAAAGAAAAAECAAABAAAAAAAAAA8A
-				AAAAAAAAAAAAAAAAAAAIAAAABAMAAAYAAAAAAAAABAAA
-				AAMDAAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
-				BAMAAAAgiD06AAAACAAAAAAEAABBtWzOwAAAACQAAAAB
-				AQAANTQ0RDREQzUtMjZFRi0zOEM3LUEzM0YtNjZEQ0Mw
-				N0E2M0MwGAAAAAECAACBAAAAAQAIAO8XAAABAAgAAAAA
-				AAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAAQAAAADAwAA
-				AAkAKMAAAAD+////AQAAAAAAAAAPAAAABBAAAKwAAAAA
-				AAAABRAAAFQBAAAAAAAAEBAAAIwBAAAAAAAAQBAAAHwB
-				AAAAAAAAAiAAAEgCAAAAAAAAECAAAMgBAAAAAAAAESAA
-				APwBAAAAAAAAEiAAANwBAAAAAAAAEyAAAOwBAAAAAAAA
-				ICAAACgCAAAAAAAAMCAAAFQCAAAAAAAAAcAAAKwBAAAA
-				AAAAEcAAABQAAAAAAAAAEsAAALwBAAAAAAAAENAAAFwC
-				AAAAAAAA
 				</data>
 				<key>shouldAutoResize</key>
 				<true/>
@@ -918,6 +826,59 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2015-04-15T14:59:30Z</date>
+				<key>fileSize</key>
+				<integer>52911</integer>
+				<key>md5</key>
+				<string>E2331230C4A94EC2ED191664C8F905FB</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/dazza/Dropbox (Personal)/0_2015/2015-GitHubRepoArchive/Events/Media/Vid-Temp.jpg</string>
+				<key>resourceName</key>
+				<string>Vid-Temp.jpg</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va1gDAAAAAAQQMAAAAPrN0w1+ao4v3GRxhnq7xnvL
+				pwpTeLvQgKBurj/rPER6YAIAAAUAAAABAQAAVXNlcnMA
+				AAAFAAAAAQEAAGRhenphAAAAEgAAAAEBAABEcm9wYm94
+				IChQZXJzb25hbCkAAAYAAAABAQAAMF8yMDE1AAAWAAAA
+				AQEAADIwMTUtR2l0SHViUmVwb0FyY2hpdmUAAAYAAAAB
+				AQAARXZlbnRzAAAFAAAAAQEAAE1lZGlhAAAADAAAAAEB
+				AABWaWQtVGVtcC5qcGcgAAAAAQYAAAQAAAAUAAAAJAAA
+				AEAAAABQAAAAcAAAAIAAAACQAAAACAAAAAQDAAD+vwAA
+				AAAAAAgAAAAEAwAAS/kFAAAAAAAIAAAABAMAAOu+BgAA
+				AAAACAAAAAQDAABBNkkCAAAAAAgAAAAEAwAATaFLAgAA
+				AAAIAAAABAMAAFBJiAIAAAAACAAAAAQDAADN85sCAAAA
+				AAgAAAAEAwAAC4CcAgAAAAAgAAAAAQYAAMwAAADcAAAA
+				7AAAAPwAAAAMAQAAHAEAACwBAAA8AQAACAAAAAAEAABB
+				ut60UgAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAA
+				AAAAAAAACAAAAAQDAAAGAAAAAAAAAAQAAAADAwAA9QEA
+				AAwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAIIg9
+				OgAAAAgAAAAABAAAQbVszsAAAAAkAAAAAQEAADU0NEQ0
+				REM1LTI2RUYtMzhDNy1BMzNGLTY2RENDMDdBNjNDMBgA
+				AAABAgAAgQAAAAEACADvFwAAAQAIAAAAAAAAAAAAAQAA
+				AAEBAAAvAAAAAAAAAAEFAAAEAAAAAwMAAAAJACjAAAAA
+				/v///wEAAAAAAAAADwAAAAQQAACkAAAAAAAAAAUQAABM
+				AQAAAAAAABAQAACEAQAAAAAAAEAQAAB0AQAAAAAAAAIg
+				AABAAgAAAAAAABAgAADAAQAAAAAAABEgAAD0AQAAAAAA
+				ABIgAADUAQAAAAAAABMgAADkAQAAAAAAACAgAAAgAgAA
+				AAAAADAgAABMAgAAAAAAAAHAAACkAQAAAAAAABHAAAAU
+				AAAAAAAAABLAAAC0AQAAAAAAABDQAABUAgAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
 		</array>
 	</dict>
 	<key>sceneContainers</key>
@@ -949,7 +910,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1082, 877}</string>
+					<string>{1442, 705}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1065,7 +1026,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1082, 707}</string>
+					<string>{1442, 705}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1090,7 +1051,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>106</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 1}</string>
+					<string>{0, 0}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1742,7 +1703,9 @@
 			<key>documentIdentifier</key>
 			<string>30CF45F9-0BB2-4857-89F7-43BE87560791-6776-00001D81B7AB7CBA</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>413</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -1753,117 +1716,6 @@
 				<array/>
 				<key>elements</key>
 				<dict>
-					<key>122</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>Appathon-Graffle</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>183px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>1.07647</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>71px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>170px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Display</string>
-							<key>objectValue</key>
-							<string>inline</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>170px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>183px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>97px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>121</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundRepeat</string>
-							<key>objectValue</key>
-							<string>no-repeat</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>16</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Image</string>
-						</dict>
-					</array>
 					<key>358</key>
 					<array>
 						<dict>
@@ -3137,6 +2989,387 @@
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+						</dict>
+					</array>
+					<key>410</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>FontFamily</string>
+							<key>objectValue</key>
+							<string>Helvetica,Arial,Sans-Serif</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>105px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>113px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>&lt;i&gt;Welcome!&lt;/i&gt;</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>25</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>72px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Text 1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
+						</dict>
+					</array>
+					<key>412</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>300px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>iframe</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>142px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>200px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>IFrameType</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>IFrameHTML</string>
+							<key>objectValue</key>
+							<string>&lt;iframe width="240" height="135" src="https://www.youtube.com/embed/0_k5CPBF8ZU?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>40px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>269px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>26</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>HTML Widget</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>IFrameURL</string>
+							<key>objectValue</key>
+							<string></string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>200px</string>
+						</dict>
+					</array>
+					<key>413</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>FontFamily</string>
+							<key>objectValue</key>
+							<string>Helvetica,Arial,Sans-Serif</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>324px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>90px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>71px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>&lt;i&gt;Have a look around&lt;br&gt;and please be patient&amp;nbsp;&lt;br&gt;over the next hour or so&amp;nbsp;&lt;br&gt;while we finish shaking&amp;nbsp;&lt;br&gt;down the site for you!&lt;/i&gt;&lt;br&gt;</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>27</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>174px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Text 2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
 						</dict>
 					</array>
 					<key>67</key>
@@ -4831,7 +5064,7 @@
 			<string>30CF45F9-0BB2-4857-89F7-43BE87560791-6776-00001D81B7AB7CBA</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>107</string>
+				<string>116</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -7631,6 +7864,126 @@
 							<string>#000000</string>
 						</dict>
 					</array>
+					<key>411</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>IFrameType</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>IFrameURL</string>
+							<key>objectValue</key>
+							<string></string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>IFrameHTML</string>
+							<key>objectValue</key>
+							<string>&lt;iframe 
+@media {max-width: 400px}
+src="http://LegalAppathon.com/Projects/lawstar.html" name="test" height="120" width="240
+00"&gt;You need a Frames Capable browser to view this content.&lt;/iframe&gt; </string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>HTML Widget 1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>9px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>300px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>200px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>200px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>208px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>300px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>17</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>iframe</string>
+						</dict>
+					</array>
 				</dict>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -8534,7 +8887,9 @@
 			<key>documentIdentifier</key>
 			<string>30CF45F9-0BB2-4857-89F7-43BE87560791-6776-00001D81B7AB7CBA</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>220</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -10095,177 +10450,6 @@
 							<string>6px</string>
 						</dict>
 					</array>
-					<key>328</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
-							<key>objectValue</key>
-							<string>1px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>Rounded Rectangle</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleRight</string>
-							<key>objectValue</key>
-							<string>Solid</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Rounded Rectangle</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleBottom</string>
-							<key>objectValue</key>
-							<string>Solid</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>158px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthRight</string>
-							<key>objectValue</key>
-							<string>1px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleLeft</string>
-							<key>objectValue</key>
-							<string>Solid</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorLeft</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorTop</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>100px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>76px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorRight</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>InnerHTML</string>
-							<key>objectValue</key>
-							<string>Rate&lt;br&gt;</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderStyleTop</string>
-							<key>objectValue</key>
-							<string>Solid</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>100px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusTopLeft</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>13</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthTop</string>
-							<key>objectValue</key>
-							<string>1px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
-							<key>objectValue</key>
-							<string>10px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthLeft</string>
-							<key>objectValue</key>
-							<string>1px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundColor</string>
-							<key>objectValue</key>
-							<string>#E8EBED</string>
-						</dict>
-					</array>
 					<key>386</key>
 					<array>
 						<dict>
@@ -11539,6 +11723,123 @@
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+						</dict>
+					</array>
+					<key>408</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Vid-Temp</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>323px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>0.719376</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>449px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>183px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>132px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>128px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>407</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>21</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 					</array>
 				</dict>
@@ -14605,13 +14906,7 @@
 			<string>30CF45F9-0BB2-4857-89F7-43BE87560791-6776-00001D81B7AB7CBA</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>400</string>
-				<string>401</string>
-				<string>402</string>
-				<string>403</string>
-				<string>404</string>
-				<string>405</string>
-				<string>406</string>
+				<string>240</string>
 			</array>
 			<key>symbol</key>
 			<dict>
